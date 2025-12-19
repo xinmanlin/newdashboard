@@ -23,7 +23,7 @@ export function Dashboard() {
   return (
     <div className="app">
       <header className="app-header">
-        <h1>Business Dashboard</h1>
+        <h1>Betty Dashboard</h1>
         <p>Creating a React dashboard with sample data.</p>
       </header>
 
